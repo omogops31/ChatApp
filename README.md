@@ -100,7 +100,7 @@ The main goals of the QuickChat application are:
 | `README.md` | Project documentation |
 ## Video Presentation
 
-[Watch the QuickChat Video Presentation](link: )
+[Watch the QuickChat Video Presentation](link: https://www.youtube.com/watch?v=T4Soxpdwy9Y&authuser=0 )
 ---
 
 # Folder Structure
