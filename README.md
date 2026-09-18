@@ -98,7 +98,9 @@ The main goals of the QuickChat application are:
 | `MessagesTest.java` | JUnit tests for message functionality |
 | `messages.json` | Stores stored message information |
 | `README.md` | Project documentation |
+## Video Presentation
 
+[Watch the QuickChat Video Presentation](link: )
 ---
 
 # Folder Structure
